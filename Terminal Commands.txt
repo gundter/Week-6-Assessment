@@ -1,0 +1,7 @@
+Commands for use in Terminal:
+
+1. cd “folder name” - used to locate the correct folder that you are using for the Repo.
+
+2. git init - used to initialize the folder to used as a Repo.
+
+3. 
